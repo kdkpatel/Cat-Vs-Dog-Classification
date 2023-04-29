@@ -12,4 +12,4 @@ Overfitting: https://www.javatpoint.com/overfitting-in-machine-learning \
 To reduce overfitting: \
 Dropout and Batch Normalization: https://www.kaggle.com/code/ryanholbrook/dropout-and-batch-normalization \
 Cv2: https://www.geeksforgeeks.org/python-opencv-cv2-imread-method/ \
-Epoch: https://www.simplilearn.com/tutorials/machine-learning-tutorial/what-is-epoch-in-machine-learning \
+Epoch: https://www.simplilearn.com/tutorials/machine-learning-tutorial/what-is-epoch-in-machine-learning 
